@@ -1,0 +1,159 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+body{
+    background-color:#000000;
+}
+
+
+.caja-nav{
+    width: 100%;
+    background-color: yellow;
+    height: 60px;
+}
+
+.img-fondo{
+    background-color:#fca311 ;
+    height: 800px;
+}
+
+.miImg{
+    margin-top: 70px;
+
+}
+
+.img-porta{
+    background-color: yellow;
+    height: 300px;
+    width: 40%;
+}
+
+
+
+.linea1{
+    background-color: aliceblue;
+    height: 10px;
+    width: 100%;
+}
+
+
+.slider{
+    margin-top: 60px;
+}
+
+.carrusel1{
+    background-color: #fca311;
+    height: 380px;
+}
+
+.carrusel2{
+    background-color: yellow;
+    height: 400px;
+}
+
+
+.carrusel3{
+    background-color: #fca311;
+    height: 380px;
+    
+}
+
+
+.conocimientos{
+    margin-top: 30px;
+
+}
+
+.titulo-conocimientos{
+    background-color: aliceblue;
+    height: 30px;
+}
+
+.todo-cajas-conocimientos{
+    margin-top: 30px;
+}
+
+
+.cajas-conocimientos1{
+    border: solid 5px #000000;
+    background-color: yellow;
+    height: 200px;
+}
+
+.cajas-conocimientos2{
+    border: solid 5px #000000;
+    background-color: #023e8a;
+    height: 200px;
+}
+
+
+.todo-cajas-barra{
+    margin-top: 10px;
+    
+}
+
+.cajas-conocimientos3{
+    border: solid 5px #000000;
+    background-color: #fb8500;
+    height: 200px;
+}
+
+
+.caja-todo-card-proyectos{
+    margin-top: 20px;
+}
+
+
+.cajas-barra1{
+    border: solid 5px #000000;
+    background-color:#9ceaef ;
+}
+
+.cajas-barra2{
+    border: solid 5px #000000;
+    background-color:#9ceaef ;
+}
+
+.cajas-barra3{
+    border: solid 5px #000000;
+    background-color:#9ceaef ;
+}
+
+
+.titulo-trabajos{
+    margin-top: 20px;
+    background-color: aliceblue;
+
+}
+
+
+.caja-pryectos1{
+    background-color: #9123f1;
+    height: 350px;
+}
+
+
+.caja-pryectos2{
+    background-color: #f50ad6;
+    height: 350px;
+}
+
+
+
+.caja-pryectos3{
+    background-color: #9ceaef;
+    
+}
+
+
+
+.caja-footer{
+    margin-top: 10px ;
+    background-color: antiquewhite;
+    height: 200px;
+}
